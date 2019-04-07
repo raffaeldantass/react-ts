@@ -1,0 +1,29 @@
+{
+  "name": "react-ts",
+  "version": "0.1.0",
+  "description": "A project to use TypeScript with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raffaeldantass/react-ts.git"
+  },
+  "author": "Rafael Dantas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raffaeldantass/react-ts/issues"
+  },
+  "homepage": "https://github.com/raffaeldantass/react-ts#readme",
+  "dependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.13.0",
+    "@types/react": "^16.8.12",
+    "@types/react-dom": "^16.8.3",
+    "react-redux": "^6.0.1",
+    "react-scripts": "^2.1.8",
+    "redux": "^4.0.1",
+    "typescript": "^3.4.2"
+  }
+}
